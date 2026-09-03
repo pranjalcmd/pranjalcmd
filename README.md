@@ -1,27 +1,21 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    PRANJAL SHARMA — PROFILE                   -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-# 👋 Hi, I'm **Pranjal Sharma**
+# 👋 Hi, I'm Pranjal Sharma
 
-### `AI` • `Data Science` • `Full-Stack Development` • `Automation`
+### AI • Data Science • Full-Stack Development • Automation
 
 <br>
 
 <a href="https://github.com/pranjalcmd">
-  <img src="https://komarev.com/ghpvc/?username=pranjalcmd&label=PROFILE%20VIEWS&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=pranjalcmd&label=PROFILE%20VIEWS&style=for-the-badge" alt="Profile Views"/>
 </a>
 
 <a href="https://github.com/pranjalcmd?tab=followers">
-  <img src="https://img.shields.io/github/followers/pranjalcmd?label=FOLLOWERS&style=for-the-badge&color=238636&labelColor=0d1117" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/pranjalcmd?label=FOLLOWERS&style=for-the-badge" alt="Followers"/>
 </a>
 
 <a href="https://github.com/pranjalcmd?tab=repositories">
-  <img src="https://img.shields.io/github/stars/pranjalcmd?affiliations=OWNER&style=for-the-badge&color=f1e05a&labelColor=0d1117&label=STARS" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/pranjalcmd?affiliations=OWNER&label=STARS&style=for-the-badge" alt="Stars"/>
 </a>
 
 <br><br>
@@ -44,25 +38,15 @@
 
 ## 🧠 About Me
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  I like turning ideas into working software.                │
-│                                                             │
-│  🤖 AI & Automation                                         │
-│  📊 Data Science & Analytics                                │
-│  💻 Full-Stack Development                                  │
-│  🛠️  Building practical projects                            │
-│  🚀 Learning something new every day                        │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+I'm a developer interested in building practical things with **AI, data and software**.
 
-* 🔭 Currently building **[NaviRail](https://github.com/pranjalcmd/NaviRail)**
-* 🤝 Looking to collaborate on **[Enclave AI](https://github.com/pranjalcmd/EnclaveAI)**
-* 🌱 Currently learning **Full-Stack Development**
-* 💡 Interested in **AI, Data, Automation & Software Development**
-* ⚡ Building things with **AI, Data & Code instead of touching grass. 🌱😂**
+- 🔭 Currently working on **[NaviRail](https://github.com/pranjalcmd/NaviRail)**
+- 🤝 Looking to collaborate on **[Enclave AI](https://github.com/pranjalcmd/EnclaveAI)**
+- 🌱 Currently learning **Full-Stack Development**
+- 🤖 Interested in **AI & Automation**
+- 📊 Exploring **Data Science & Analytics**
+- 💻 Building with **Python, JavaScript and modern web technologies**
+- ⚡ Fun fact: Building things with AI, Data & Code instead of touching grass. 🌱😂
 
 ---
 
@@ -71,20 +55,27 @@
 <div align="center">
 
 <a href="https://github.com/pranjalcmd/NaviRail">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalcmd&repo=NaviRail&theme=github_dark&hide_border=true&border_radius=12" />
+  <img src="https://img.shields.io/badge/🚆%20NaviRail-View%20Repository-161b22?style=for-the-badge" />
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/pranjalcmd/EnclaveAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalcmd&repo=EnclaveAI&theme=github_dark&hide_border=true&border_radius=12" />
+  <img src="https://img.shields.io/badge/🤖%20Enclave%20AI-View%20Repository-161b22?style=for-the-badge" />
 </a>
 
 </div>
 
 <br>
 
+| Project | Description |
+| :--- | :--- |
+| 🚆 **NaviRail** | A project currently being developed and improved. |
+| 🤖 **Enclave AI** | An AI-focused project open for collaboration. |
+
 <div align="center">
 
-**More projects → [github.com/pranjalcmd?tab=repositories](https://github.com/pranjalcmd?tab=repositories)**
+**[View all repositories →](https://github.com/pranjalcmd?tab=repositories)**
 
 </div>
 
@@ -94,17 +85,23 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranjalcmd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&theme=github_dark&rank=SSS" />
+<a href="https://github.com/pranjalcmd">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pranjalcmd&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank=SSS" alt="Pranjal's GitHub Stats"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalcmd&layout=compact&langs_count=10&hide_border=true&border_radius=12&theme=github_dark" />
+<a href="https://github.com/pranjalcmd">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalcmd&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Pranjal's Top Languages"/>
+</a>
 
 </div>
 
-<br>
+---
+
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=pranjalcmd&theme=github-dark-blue&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=pranjalcmd&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -114,17 +111,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalcmd&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&radius=12" alt="Pranjal's Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalcmd&theme=github-compact&hide_border=true&area=true" alt="Pranjal's Contribution Activity"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pranjalcmd&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pranjalcmd&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -134,83 +131,87 @@
 
 ### 💻 Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,html,css&perline=7" alt="Languages"/>
 
-</p>
-
-### 🤖 AI / Data Science
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
-
-</p>
+</div>
 
 ### 🌐 Frontend & Backend
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,nestjs,laravel,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,nestjs,laravel,tailwind&perline=9" alt="Frontend and Backend"/>
 
-</p>
+</div>
+
+### 🤖 AI & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=5" alt="AI Tools"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
+
+</div>
 
 ### 🗄️ Databases & Cloud
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,gcp&perline=5" alt="Databases and Cloud"/>
 
-</p>
+</div>
 
 ### ⚙️ Tools & DevOps
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,figma,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,figma,arduino&perline=8" alt="Tools and DevOps"/>
 
-</p>
+</div>
 
 ---
 
-# 📌 What I'm Working On
+# 📌 Currently Building
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚆 NaviRail
+## 🚆 NaviRail
 
-A project I'm currently working on.
+Currently working on NaviRail and continuously experimenting with new ideas and improvements.
 
-**Focus:**
-Building • Experimenting • Improving
+**Status:** `In Development`
 
-[View Repository →](https://github.com/pranjalcmd/NaviRail)
+<br>
+
+<a href="https://github.com/pranjalcmd/NaviRail">
+<img src="https://img.shields.io/badge/View%20Project-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Enclave AI
+## 🤖 Enclave AI
 
-An AI-focused project I'm looking to collaborate on.
+An AI-focused project where I'm exploring ideas around intelligent software and automation.
 
-**Focus:**
-AI • Development • Collaboration
+**Status:** `Open for Collaboration`
 
-[View Repository →](https://github.com/pranjalcmd/EnclaveAI)
+<br>
+
+<a href="https://github.com/pranjalcmd/EnclaveAI">
+<img src="https://img.shields.io/badge/Collaborate-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
@@ -218,17 +219,19 @@ AI • Development • Collaboration
 
 ---
 
-# 📊 My GitHub at a Glance
+# 💡 Areas I'm Exploring
 
 <div align="center">
 
-| 📦 Repositories |   ⭐ Stars   | 👥 Followers |  🔥 Streak  |
-| :-------------: | :---------: | :----------: | :---------: |
-|   **Dynamic**   | **Dynamic** |  **Dynamic** | **Dynamic** |
+`Artificial Intelligence`  
+`Data Science`  
+`Machine Learning`  
+`Automation`  
+`Full-Stack Development`  
+`APIs & Backend Systems`  
+`Developer Tools`
 
 </div>
-
-> GitHub's own profile already exposes contribution activity, achievements and pinned items; the cards above are an additional visual summary rather than a replacement for GitHub's native profile sections.
 
 ---
 
@@ -237,19 +240,19 @@ AI • Development • Collaboration
 <div align="center">
 
 <a href="https://github.com/pranjalcmd">
-<img src="https://img.shields.io/badge/GitHub-pranjalcmd-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-pranjalcmd-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/pranjalcmd">
-<img src="https://img.shields.io/badge/LinkedIn-pranjalcmd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-pranjalcmd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/hax4er">
-<img src="https://img.shields.io/badge/Instagram-@hax4er-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-@hax4er-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:pranjal3266@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-pranjal3266%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-pranjal3266%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -258,10 +261,10 @@ AI • Development • Collaboration
 
 <div align="center">
 
-### 💭 *"Build. Break. Learn. Repeat."*
+### ⚡ Build • Learn • Experiment • Repeat
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>

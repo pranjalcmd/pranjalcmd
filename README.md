@@ -41,7 +41,7 @@
 I'm a developer interested in building practical things with **AI, data and software**.
 
 - 🔭 Currently working on **[NaviRail](https://github.com/pranjalcmd/NaviRail)**
-- 🤝 Looking to collaborate on **[Enclave AI](https://github.com/pranjalcmd/EnclaveAI)**
+- 🤝 Looking to collaborate on **[NetSentinal AI](https://github.com/pranjalcmd/NetSentinal-AI)**
 - 🌱 Currently learning **Full-Stack Development**
 - 🤖 Interested in **AI & Automation**
 - 📊 Exploring **Data Science & Analytics**

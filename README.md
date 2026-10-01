@@ -107,26 +107,6 @@ I'm a developer interested in building practical things with **AI, data and soft
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalcmd&theme=github-compact&hide_border=true&area=true" alt="Pranjal's Contribution Activity"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranjalcmd&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 # 🛠️ Tech Stack
 
 ### 💻 Languages
